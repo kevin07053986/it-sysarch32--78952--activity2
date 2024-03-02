@@ -5,8 +5,7 @@ function Student({student}) {
     <div className='w-[15%]'>
         <img src={student.image}/>
         <h2>{student.name}</h2>
-        <p>{student.email}</p>
-        
+        <p>{student.email}</p>        
     </div>
   )
 }
