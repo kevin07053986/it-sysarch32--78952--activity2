@@ -29,6 +29,12 @@ function Content() {
         image:"https://media1.tenor.com/m/HZ417QSs3N4AAAAd/looking-up-katara.gif",
         name:"Kiawentiio",
         email: "kiawentiio@gmail.com"
+    },
+
+    {
+        image:"https://media1.tenor.com/m/HZ417QSs3N4AAAAd/looking-up-katara.gif",
+        name:"Kiawentiio",
+        email: "kiawentiio@gmail.com"
     }
   ]
   return (

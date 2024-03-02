@@ -7,10 +7,12 @@ function App() {
   return (
     <div className='relative h-dvh'>
       <Header />
-      <Footer />
+      
       <main className='w-[90%] mt-5 flex justify-center'style={{marginInline: "auto"}}>
         <Content />
       </main>
+
+      <Footer />
     </div>
   )
 }
