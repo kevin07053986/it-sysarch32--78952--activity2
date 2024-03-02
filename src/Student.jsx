@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Card({student}) {
+function Student({student}) {
   return (
     <div className='w-[15%]'>
         <img src={student.image}/>
@@ -11,4 +11,4 @@ function Card({student}) {
   )
 }
 
-export default Card
+export default Student
