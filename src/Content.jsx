@@ -40,7 +40,7 @@ function Content() {
   return (
     <div> 
         <h2 className = 'font-semibold'> Content </h2>
-        <div className='flex flex-wrap gap-10 mt-2'>
+        <div className='grid grid-cols-4 gap-10 mt-2'>
             {student.map(student => {
                 return <Card student={student} key={student.name} />
             })}
