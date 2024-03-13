@@ -40,15 +40,15 @@ function Content() {
     },
 
     {
-        image:"https://images.thedirect.com/media/photos/suki1.png",
-        name:"Maria Zhang",
-        email: "mariazhang@gmail.com"
-    },
-
-    {
         image:"https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/02/Paul-Sun-Hyung-Lee-Iroh.jpg?fit=990%2C557&ssl=1",
         name:"Paul Sun-Hyung Lee",
         email: "paulsun-hyunglee@gmail.com"
+    },
+
+    {
+        image:"https://images.thedirect.com/media/photos/suki1.png",
+        name:"Maria Zhang",
+        email: "mariazhang@gmail.com"
     }
   ]
   return (
