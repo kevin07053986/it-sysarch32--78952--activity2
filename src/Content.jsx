@@ -5,7 +5,7 @@ function Content() {
   const student = [
     {
         image:"https://filmfare.wwmindia.com/content/2023/nov/avatarthelastairbender41699598878.jpg",
-        name:"Gordon Cormier",
+        name:"Gordon Kyle Diez Cormier",
         email: "gc@gmail.com"
     },
 
